@@ -1,0 +1,6 @@
+com.flipkart.android
+com.udaan.android
+com.byjus.thelearningapp
+com.VoDrive
+com.lenskart.app
+com.zilingo.users
